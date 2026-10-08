@@ -54,7 +54,6 @@ presents its WhatsApp interface instead of crashing, and the Go toolchain at
 
 - Owning skill: `/charly-selkies:wacli`
 - `/charly-coder:golang` — Go toolchain dependency
-- `/charly-openclaw:openclaw-full` — metalayer that bundles wacli
 - `/charly-hermes:hermes` — companion messaging stack with a WhatsApp bridge
 - [`opencharly/charly`](https://github.com/opencharly/charly) — the charly CLI and image builder
 - [`opencharly/opencharly`](https://github.com/opencharly/opencharly) — the umbrella
